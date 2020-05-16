@@ -23,7 +23,7 @@ h1 {
     color: #66BFBF;
     font-size: 5.625rem;
     /* 16px = 100% = 1em = 1rem*/
-    margin: 50px auto 0 auto;
+    margin: 15px auto 0 auto;
     font-family: 'Sacramento', cursive;
 }
 
@@ -31,7 +31,6 @@ h2 {
     color: #66BFBF;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem; /* 40px/16px = 1rem/?= 40/16 =     */
-    font-weight: normal;
     padding-bottom: 10px;
     
 }
@@ -45,7 +44,7 @@ hr {
     border: dotted #EAF6F6 6px;
     border-bottom: none;
     width: 4%;
-    margin: 100px auto;
+    margin: 50px auto;
 
 }
 
@@ -121,7 +120,7 @@ p {
 }
 
 .middle-container {
-    margin: 100px 0;
+    margin: 50px 0;
 }
 
 .other-img {
@@ -142,7 +141,7 @@ p {
 
 .skill-row {
     width: 50%;
-    margin: 100px auto 100px auto;
+    margin: 50px auto 100px auto;
     text-align: left;
     line-height: 2;
 }
@@ -150,7 +149,7 @@ p {
 .top-cloud {
     position: absolute;
     right: 300px;
-    top: 40px
+    top: 30px
 }
 
 .top-container {
